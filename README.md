@@ -11,3 +11,4 @@ Num-ple (Sudoku) on Java SWING.
 <a href="https://github.com/T-era/ThreadView">バージョン表示コンポーネント</a>
 <a href="https://github.com/T-era/YtelUtility">私的ユーティリティ</a>
 
+See also: <a href="http://ytel.seesaa.net/article/374772033.html">説明書だよ！</a>
